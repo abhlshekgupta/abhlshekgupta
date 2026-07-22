@@ -4,16 +4,16 @@
 
 ### AI/ML Engineer • Full-Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-yellow?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=readthedocs)](YOUR_RESUME_LINK)
+[![Portfolio](assets/1.png)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](assets/2.png)](YOUR_LINKEDIN_URL)
+[![Resume](assets/3.png)](YOUR_RESUME_LINK)
 
 
 
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=abhlshekgupta&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="assets/56.png" alt="Profile Views"/>
 
 </div>
 
@@ -49,77 +49,77 @@ I build **production-grade AI systems** that solve real business problems. My ex
 ## 🛠️ Technical Arsenal
 
 ### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-0055FF?logo=google&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00B050?logo=lightgbm&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=yolo&logoColor=black)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-111111&logoColor=white)
-![Detectron2](https://img.shields.io/badge/Detectron2-394EFF&logo=meta&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?logo=kubeflow&logoColor=white)
-![BentoML](https://img.shields.io/badge/BentoML-22B573&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
-![Triton](https://img.shields.io/badge/Triton_Inference-76B900?logo=nvidia&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?logo=weightsandbiases&logoColor=black)
+![Python](assets/4.png)
+![PyTorch](assets/5.png)
+![TensorFlow](assets/6.png)
+![JAX](assets/7.png)
+![scikit-learn](assets/8.png)
+![XGBoost](assets/9.png)
+![LightGBM](assets/10.png)
+![OpenCV](assets/11.png)
+![YOLOv8](assets/12.png)
+![Ultralytics](assets/13.png)
+![Detectron2](assets/14.png)
+![MLflow](assets/15.png)
+![Kubeflow](assets/16.png)
+![BentoML](assets/17.png)
+![ONNX](assets/18.png)
+![Triton](assets/19.png)
+![Weights & Biases](assets/20.png)
 
 
 ### 🧠 Generative AI & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?logo=llama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-Pinecone_|_Weaviate_|_Chroma-0B5E2B&logoColor=white)
+![LangChain](assets/21.png)
+![LlamaIndex](assets/22.png)
+![Hugging Face](assets/23.png)
+![OpenAI](assets/24.png)
+![RAG](assets/25.png)
+![Vector DBs](assets/26.png)
 
 
 
 
 
 ### 🗄️ Data Engineering
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?logo=ray&logoColor=white)
-![Numba](https://img.shields.io/badge/Numba-00A3E0&logoColor=white)
-![kdb+/q](https://img.shields.io/badge/kdb+_|_q-1E90FF&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![NumPy](assets/27.png)
+![Pandas](assets/28.png)
+![Apache Spark](assets/29.png)
+![Ray](assets/30.png)
+![Numba](assets/31.png)
+![kdb+/q](assets/32.png)
+![Apache Kafka](assets/33.png)
+![Apache Airflow](assets/34.png)
+![dbt](assets/35.png)
+![Snowflake](assets/36.png)
+![BigQuery](assets/37.png)
+![Databricks](assets/38.png)
+![PostgreSQL](assets/39.png)
+![Power BI](assets/40.png)
+![Tableau](assets/41.png)
+![Looker](assets/42.png)
+![Streamlit](assets/43.png)
 
 ### ☁️ Full-Stack Development & Cloud
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![FastAPI](assets/44.png)
+![Node.js](assets/45.png)
+![GraphQL](assets/46.png)
+![GCP](assets/47.png)
+![Java](assets/48.png)
+![Spring Boot](assets/49.png)
+![JavaScript](assets/50.png)
+![TypeScript](assets/51.png)
+![React](assets/52.png)
+![Node.js](assets/45.png)
+![Express](assets/53.png)
+![NestJS](assets/54.png)
+![MongoDB](assets/55.png)
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=abhlshekgupta&theme=icegray"/>
+  <img height="180em" src="assets/57.png"/>
 </div>
 
 ---
@@ -146,11 +146,11 @@ I'm actively looking for **AI/ML Engineering roles** and exciting **open-source 
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/xensen008/xensen008/output/github-contribution-grid-snake.svg"
+    srcset="assets/58.png"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/xensen008/xensen008/output/github-contribution-grid-snake.svg"
+    src="assets/58.png"
     height="120"  
   />
 </picture>
